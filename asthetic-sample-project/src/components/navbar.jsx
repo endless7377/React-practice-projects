@@ -37,7 +37,7 @@ function Navbar(){
               it's app
           </div>
 
-          <div className=" list-none flex mr-[200px]" ref={navItems}>
+          <div className=" list-none flex mr-[200px]">
              <li>home</li>
              <li>projects</li>
              <li>about</li>
