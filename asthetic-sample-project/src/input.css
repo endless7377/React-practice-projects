@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    html{
+        @apply bg-[#101314] text-white;
+        @apply font-Istok;
+    }
+    li{
+        @apply m-navWidth;
+    }
+    .main-logo{
+        @apply m-navWidth;
+    }
+}
